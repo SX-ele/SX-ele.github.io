@@ -292,7 +292,7 @@ main h2:first-of-type {
 
 .details h3,
 .details-with-logo h3 {
-    font-size: 1.13rem;
+    font-size: 1.12rem;
     font-weight: 800;
     color: var(--text-primary);
     display: flex;
