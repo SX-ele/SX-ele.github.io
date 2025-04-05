@@ -335,13 +335,13 @@ main h2:first-of-type {
     position: relative;
     padding-right: 110px;
     margin-bottom: 12px;
-    font-size: 0.9rem;
+    font-size: 1.1rem;
     color: var(--text-primary);
 }
 
 .awards-list .date {
     position: absolute;
-    right: 0;
+    right: 20px;
     top: 0;
     font-size: 0.9rem;
 }
