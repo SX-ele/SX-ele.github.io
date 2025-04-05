@@ -292,7 +292,7 @@ main h2:first-of-type {
 
 .details h3,
 .details-with-logo h3 {
-    font-size: 1.17rem;
+    font-size: 1.15rem;
     font-weight: 800;
     color: var(--text-primary);
     display: flex;
@@ -333,9 +333,9 @@ main h2:first-of-type {
 
 .awards-list li {
     position: relative;
-    padding-right: 110px;
+    padding-right: 120px;
     margin-bottom: 12px;
-    font-size: 1.1rem;
+    font-size: 1.05rem;
     color: var(--text-primary);
 }
 
